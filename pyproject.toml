@@ -1,0 +1,16 @@
+[project]
+name = "cuntry-guessr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.1",
+    "faster-whisper>=1.2.0",
+    "numpy>=2.3.3",
+    "pyahocorasick>=2.2.0",
+    "topojson>=1.10",
+    "torch>=2.8.0",
+    "uvicorn[standard]>=0.35.0",
+    "websockets>=15.0.1",
+]

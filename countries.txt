@@ -1,0 +1,188 @@
+[COUNTRIES]
+afghanistan
+albania
+algeria
+angola
+argentina
+armenia
+australia
+austria
+azerbaijan
+bahamas
+bangladesh
+belarus
+belgium
+belize
+benin
+bhutan
+bolivia
+bosnia and herzegovina
+botswana
+brazil
+brunei
+bulgaria
+burkina faso
+burundi
+cambodia
+cameroon
+canada
+central african republic
+chad
+chile
+china
+colombia
+congo
+costa rica
+croatia
+cuba
+cyprus
+czechia
+cã´te d'ivoire
+democratic republic of the congo
+denmark
+djibouti
+dominican republic
+ecuador
+egypt
+el salvador
+equatorial guinea
+eritrea
+estonia
+eswatini
+ethiopia
+falkland is.
+fiji
+finland
+fr. s. antarctic lands
+france
+gabon
+gambia
+georgia
+germany
+ghana
+greece
+guatemala
+guinea
+guinea-bissau
+guyana
+haiti
+honduras
+hungary
+iceland
+india
+indonesia
+iran
+iraq
+ireland
+israel
+italy
+jamaica
+japan
+jordan
+kazakhstan
+kenya
+kosovo
+kuwait
+kyrgyzstan
+laos
+latvia
+lebanon
+lesotho
+liberia
+libya
+lithuania
+luxembourg
+macedonia
+madagascar
+malawi
+malaysia
+mali
+mauritania
+mexico
+moldova
+mongolia
+montenegro
+morocco
+mozambique
+myanmar
+n. cyprus
+namibia
+nepal
+netherlands
+new caledonia
+new zealand
+nicaragua
+niger
+nigeria
+north korea
+norway
+oman
+pakistan
+palestine
+panama
+papua new guinea
+paraguay
+peru
+philippines
+poland
+portugal
+puerto rico
+qatar
+romania
+russia
+rwanda
+saudi arabia
+senegal
+serbia
+sierra leone
+slovakia
+slovenia
+solomon islands
+somalia
+somaliland
+south africa
+south korea
+south sudan
+spain
+sri lanka
+sudan
+suriname
+sweden
+switzerland
+syria
+taiwan
+tajikistan
+tanzania
+thailand
+timor-leste
+togo
+trinidad and tobago
+tunisia
+turkey
+turkmenistan
+uganda
+ukraine
+united arab emirates
+united kingdom
+united states of america
+uruguay
+uzbekistan
+vanuatu
+venezuela
+vietnam
+western sahara
+yemen
+zambia
+zimbabwe
+
+[ABBREVIATIONS]
+bosnia and herz. -> bosnia and herzegovina
+central african rep. -> central african republic
+dem. rep. congo -> democratic republic of the congo
+dominican rep. -> dominican republic
+eq. guinea -> equatorial guinea
+solomon is. -> solomon islands
+uae -> united arab emirates
+uk -> united kingdom
+usa -> united states of america
+w. sahara -> western sahara
